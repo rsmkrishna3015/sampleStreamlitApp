@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("F:\PythonProject\pythonProject\StreamlitApp\quarterly_canada_population.csv")
+df = pd.read_csv("quarterly_canada_population.csv")
 
 st.title("Canada Dataset Preview")
 st.divider()
